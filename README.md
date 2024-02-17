@@ -5,7 +5,7 @@ How the game work?
 section of bet: ante bet and pair_plus.
 
 • (Ante bet or called play_wager) used when your 3 cards compare against the Dealer 3 cards
-- trying to see if our 3 cards sum is higher, lesser or equal to Dealer’s. If equal, no money is
+trying to see if our 3 cards sum is higher, lesser or equal to Dealer’s. If equal, no money is
 lost; if win, receive x2 of initial ante bet; if lost, lost initial ante bet
 
 • While, pair_plus is self card evaluation that try to see if your hand match quality of
